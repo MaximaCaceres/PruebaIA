@@ -26,3 +26,31 @@ C:\Users\Usuario\source\repos\Prueba de IA\Prueba de IA\bin\Debug\System.Text.Js
 C:\Users\Usuario\source\repos\Prueba de IA\Prueba de IA\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Usuario\source\repos\Prueba de IA\Prueba de IA\bin\Debug\System.ValueTuple.xml
 C:\Users\Usuario\source\repos\Prueba de IA\Prueba de IA\obj\Debug\Prueba d.26009568.Up2Date
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\Prueba de IA.exe.config
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\Prueba de IA.exe
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\Prueba de IA.pdb
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Memory.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Memory.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\obj\Debug\Prueba de IA.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\obj\Debug\Prueba de IA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\obj\Debug\Prueba d.26009568.Up2Date
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\obj\Debug\Prueba de IA.exe
+C:\Users\Usuario\source\repos\PruebaIA\Prueba de IA\Prueba de IA\obj\Debug\Prueba de IA.pdb

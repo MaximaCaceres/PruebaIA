@@ -1,0 +1,7 @@
+Este proyecto es una aplicación de consola en C# que traduce palabras del español al inglés. Se basa en un diccionario predefinido de traducciones y, en caso de que la palabra ingresada no se encuentre en él, consulta una API de traducción gratuita para obtener la traducción automática.
+
+La API utilizada es MyMemory Translation API, un servicio en línea que permite traducir textos entre distintos idiomas de forma gratuita. La aplicación envía una solicitud HTTP a esta API con la palabra ingresada y recibe una respuesta en formato JSON, de la cual se extrae la traducción.
+
+El funcionamiento del programa es el siguiente: primero, solicita al usuario que ingrese una palabra en español. Si la palabra está en el diccionario interno, se muestra su traducción directamente. Si no está, el programa realiza una consulta a la API y muestra la traducción obtenida. Además, al final del proceso, se le ofrece al usuario la opción de abrir ChatGPT para hacer consultas adicionales.
+
+Este programa podría utilizarse como una herramienta educativa para aprender vocabulario básico en inglés o como un traductor simple en aplicaciones donde no se requiera una base de datos extensa de palabras. Dentro de las mejoras posibles sin salir del modelo gratuito, se podría ampliar el diccionario interno con más palabras comunes para reducir la dependencia de la API, agregar compatibilidad con más idiomas y mejorar la interfaz de usuario para hacerla más intuitiva y amigable.
